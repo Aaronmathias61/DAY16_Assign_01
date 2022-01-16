@@ -1,0 +1,28 @@
+body{
+    margin: 30px;
+    border-width: 5px black;
+}
+h1,h4,h6{
+    text-align: center;
+}
+.all{
+    background-color: rgb(224, 0, 245);
+    color: white;
+    border: 3px solid black;
+    margin: 20px;
+    padding: 20px;
+
+}
+.box{
+    border: 2px solid black;
+    margin: 40px;
+    padding: 50px;
+    background-color: rgb(236, 114, 114);
+}
+h5{
+    text-align: right;
+} 
+.column{
+    padding: 40px;
+
+}
